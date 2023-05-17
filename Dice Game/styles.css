@@ -1,0 +1,27 @@
+body{
+    background-color:#395B64;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.25em;
+}
+.heading
+{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 5rem;
+    margin: 25px auto;
+}
+.player{
+    display:inline-block ;
+    margin-right: 50px;
+}
+.player2{
+    display:inline-block ;
+    margin-left: 50px;
+}
+.body{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5rem;
+}
+.beg{
+    margin:0 auto 30px auto;
+}
